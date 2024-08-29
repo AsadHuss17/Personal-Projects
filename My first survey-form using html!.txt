@@ -1,0 +1,47 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <meta Charset= "UTF-8">
+<head>
+<title>Title</title>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<h1 id= "title">Title</h1>
+<p id="description">Paragraph</p>
+<form id="survey-form">
+<input id="name" type="text" placeholder="Name" required></input>
+<input id="email" type="email" placeholder="Email" required></input>
+<input id="number" type="number" placeholder="Phone Number" required min="0" max="10"></input>
+<input type="radio" value="test 1" name="account-type"></input>
+<input type="radio" value="test 2" name="account-type"></input>
+<input type="checkbox" value="checkbox 1"></input>
+<input type="checkbox" value="checkbox 2"></input>
+
+<label id="name-label">Name</label>
+<label id="email-label">Email</label>
+<label id="number-label">Number</label>
+
+<select input id="dropdown">
+  <option></option>
+  <option></option>
+
+  <textarea type="textarea"></textarea>
+
+  <button id="submit"></button>
+
+</select>
+
+</form>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
